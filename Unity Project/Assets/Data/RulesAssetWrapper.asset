@@ -12,5 +12,5 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 226d59cb091e3144485c440b9ba1c985, type: 3}
   m_Name: RulesAssetWrapper
   m_EditorClassIdentifier: 
-  Version: 1
-  Asset: {fileID: 4900000, guid: 50c8388b9292a5a43b7dc467c59a5221, type: 3}
+  Version: 3
+  Asset: {fileID: 4900000, guid: f24451276b4b14449bffd2164f3b71fb, type: 3}
