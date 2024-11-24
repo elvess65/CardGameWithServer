@@ -31,6 +31,7 @@ If server setup correctly after using the tool RulesAssetWrapper object is updat
 
 
 If entering play mode new version of rules are displayed on the start screen:
+
 <img width="288" alt="Screenshot_4" src="https://github.com/user-attachments/assets/9fddd422-3e63-4e5a-bfd4-9289a10b3eda">
 
 
