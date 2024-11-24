@@ -11,7 +11,9 @@ Card Game with a server and Android SDK
 4. Paste NGROK endpoint into the url field at the start screen of the game:
 ![2](https://github.com/user-attachments/assets/6e381c26-67c5-440b-9d11-a58112109343)
 
-5. Press 'Play' button
+5. Install an .apk from CardGameWithServer\Executables\AndroidClient\CardGame.apk
+
+6. Press 'Play' button
 <img width="217" alt="play" src="https://github.com/user-attachments/assets/27c9b01a-c640-46d6-aecf-282620a07b02">
 
 Note, if You want to use Updater Tool in the Editor please follow the same steps or bypass NGROK step if server is run on the same machine.
