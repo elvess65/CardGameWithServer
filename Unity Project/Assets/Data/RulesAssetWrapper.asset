@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 226d59cb091e3144485c440b9ba1c985, type: 3}
+  m_Name: RulesAssetWrapper
+  m_EditorClassIdentifier: 
+  Version: 1
+  Asset: {fileID: 4900000, guid: 50c8388b9292a5a43b7dc467c59a5221, type: 3}

@@ -1,0 +1,97 @@
+D:\Visual Studio Projects\GameServer\Server\bin\Debug\net6.0\appsettings.Development.json
+D:\Visual Studio Projects\GameServer\Server\bin\Debug\net6.0\appsettings.json
+D:\Visual Studio Projects\GameServer\Server\bin\Debug\net6.0\Server.exe
+D:\Visual Studio Projects\GameServer\Server\bin\Debug\net6.0\Server.deps.json
+D:\Visual Studio Projects\GameServer\Server\bin\Debug\net6.0\Server.runtimeconfig.json
+D:\Visual Studio Projects\GameServer\Server\bin\Debug\net6.0\Server.dll
+D:\Visual Studio Projects\GameServer\Server\bin\Debug\net6.0\Server.pdb
+D:\Visual Studio Projects\GameServer\Server\bin\Debug\net6.0\SharedLibrary.dll
+D:\Visual Studio Projects\GameServer\Server\bin\Debug\net6.0\SharedLibrary.pdb
+D:\Visual Studio Projects\GameServer\Server\obj\Debug\net6.0\Server.csproj.AssemblyReference.cache
+D:\Visual Studio Projects\GameServer\Server\obj\Debug\net6.0\Server.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio Projects\GameServer\Server\obj\Debug\net6.0\Server.AssemblyInfoInputs.cache
+D:\Visual Studio Projects\GameServer\Server\obj\Debug\net6.0\Server.AssemblyInfo.cs
+D:\Visual Studio Projects\GameServer\Server\obj\Debug\net6.0\Server.csproj.CoreCompileInputs.cache
+D:\Visual Studio Projects\GameServer\Server\obj\Debug\net6.0\Server.MvcApplicationPartsAssemblyInfo.cache
+D:\Visual Studio Projects\GameServer\Server\obj\Debug\net6.0\staticwebassets.build.json
+D:\Visual Studio Projects\GameServer\Server\obj\Debug\net6.0\staticwebassets.development.json
+D:\Visual Studio Projects\GameServer\Server\obj\Debug\net6.0\staticwebassets\msbuild.Server.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Visual Studio Projects\GameServer\Server\obj\Debug\net6.0\staticwebassets\msbuild.build.Server.props
+D:\Visual Studio Projects\GameServer\Server\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Server.props
+D:\Visual Studio Projects\GameServer\Server\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Server.props
+D:\Visual Studio Projects\GameServer\Server\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Visual Studio Projects\GameServer\Server\obj\Debug\net6.0\scopedcss\bundle\Server.styles.css
+D:\Visual Studio Projects\GameServer\Server\obj\Debug\net6.0\Server.csproj.Up2Date
+D:\Visual Studio Projects\GameServer\Server\obj\Debug\net6.0\Server.dll
+D:\Visual Studio Projects\GameServer\Server\obj\Debug\net6.0\refint\Server.dll
+D:\Visual Studio Projects\GameServer\Server\obj\Debug\net6.0\Server.pdb
+D:\Visual Studio Projects\GameServer\Server\obj\Debug\net6.0\Server.genruntimeconfig.cache
+D:\Visual Studio Projects\GameServer\Server\obj\Debug\net6.0\ref\Server.dll
+D:\Projects\GameWithSimpleServer\GameServer\Server\bin\Debug\net6.0\appsettings.Development.json
+D:\Projects\GameWithSimpleServer\GameServer\Server\bin\Debug\net6.0\appsettings.json
+D:\Projects\GameWithSimpleServer\GameServer\Server\bin\Debug\net6.0\Server.exe
+D:\Projects\GameWithSimpleServer\GameServer\Server\bin\Debug\net6.0\Server.deps.json
+D:\Projects\GameWithSimpleServer\GameServer\Server\bin\Debug\net6.0\Server.runtimeconfig.json
+D:\Projects\GameWithSimpleServer\GameServer\Server\bin\Debug\net6.0\Server.dll
+D:\Projects\GameWithSimpleServer\GameServer\Server\bin\Debug\net6.0\Server.pdb
+D:\Projects\GameWithSimpleServer\GameServer\Server\bin\Debug\net6.0\SharedLibrary.dll
+D:\Projects\GameWithSimpleServer\GameServer\Server\bin\Debug\net6.0\SharedLibrary.pdb
+D:\Projects\GameWithSimpleServer\GameServer\Server\obj\Debug\net6.0\Server.csproj.AssemblyReference.cache
+D:\Projects\GameWithSimpleServer\GameServer\Server\obj\Debug\net6.0\Server.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\GameWithSimpleServer\GameServer\Server\obj\Debug\net6.0\Server.AssemblyInfoInputs.cache
+D:\Projects\GameWithSimpleServer\GameServer\Server\obj\Debug\net6.0\Server.AssemblyInfo.cs
+D:\Projects\GameWithSimpleServer\GameServer\Server\obj\Debug\net6.0\Server.csproj.CoreCompileInputs.cache
+D:\Projects\GameWithSimpleServer\GameServer\Server\obj\Debug\net6.0\Server.MvcApplicationPartsAssemblyInfo.cache
+D:\Projects\GameWithSimpleServer\GameServer\Server\obj\Debug\net6.0\Server.sourcelink.json
+D:\Projects\GameWithSimpleServer\GameServer\Server\obj\Debug\net6.0\staticwebassets.build.json
+D:\Projects\GameWithSimpleServer\GameServer\Server\obj\Debug\net6.0\staticwebassets.development.json
+D:\Projects\GameWithSimpleServer\GameServer\Server\obj\Debug\net6.0\staticwebassets\msbuild.Server.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Projects\GameWithSimpleServer\GameServer\Server\obj\Debug\net6.0\staticwebassets\msbuild.build.Server.props
+D:\Projects\GameWithSimpleServer\GameServer\Server\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Server.props
+D:\Projects\GameWithSimpleServer\GameServer\Server\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Server.props
+D:\Projects\GameWithSimpleServer\GameServer\Server\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Projects\GameWithSimpleServer\GameServer\Server\obj\Debug\net6.0\scopedcss\bundle\Server.styles.css
+D:\Projects\GameWithSimpleServer\GameServer\Server\obj\Debug\net6.0\Server.csproj.Up2Date
+D:\Projects\GameWithSimpleServer\GameServer\Server\obj\Debug\net6.0\Server.dll
+D:\Projects\GameWithSimpleServer\GameServer\Server\obj\Debug\net6.0\refint\Server.dll
+D:\Projects\GameWithSimpleServer\GameServer\Server\obj\Debug\net6.0\Server.pdb
+D:\Projects\GameWithSimpleServer\GameServer\Server\obj\Debug\net6.0\Server.genruntimeconfig.cache
+D:\Projects\GameWithSimpleServer\GameServer\Server\obj\Debug\net6.0\ref\Server.dll
+D:\Projects\GameWithSimpleServer\GameServer\Server\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\Projects\GameWithSimpleServer\GameServer\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\Projects\GameWithSimpleServer\GameServer\Server\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Projects\GameWithSimpleServer\GameServer\Server\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+D:\Projects\CardGameWithServer\Server Project\Server\bin\Debug\net6.0\appsettings.Development.json
+D:\Projects\CardGameWithServer\Server Project\Server\bin\Debug\net6.0\appsettings.json
+D:\Projects\CardGameWithServer\Server Project\Server\bin\Debug\net6.0\Server.exe
+D:\Projects\CardGameWithServer\Server Project\Server\bin\Debug\net6.0\Server.deps.json
+D:\Projects\CardGameWithServer\Server Project\Server\bin\Debug\net6.0\Server.runtimeconfig.json
+D:\Projects\CardGameWithServer\Server Project\Server\bin\Debug\net6.0\Server.dll
+D:\Projects\CardGameWithServer\Server Project\Server\bin\Debug\net6.0\Server.pdb
+D:\Projects\CardGameWithServer\Server Project\Server\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\Projects\CardGameWithServer\Server Project\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\Projects\CardGameWithServer\Server Project\Server\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Projects\CardGameWithServer\Server Project\Server\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+D:\Projects\CardGameWithServer\Server Project\Server\bin\Debug\net6.0\SharedLibrary.dll
+D:\Projects\CardGameWithServer\Server Project\Server\bin\Debug\net6.0\SharedLibrary.pdb
+D:\Projects\CardGameWithServer\Server Project\Server\obj\Debug\net6.0\Server.csproj.AssemblyReference.cache
+D:\Projects\CardGameWithServer\Server Project\Server\obj\Debug\net6.0\Server.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\CardGameWithServer\Server Project\Server\obj\Debug\net6.0\Server.AssemblyInfoInputs.cache
+D:\Projects\CardGameWithServer\Server Project\Server\obj\Debug\net6.0\Server.AssemblyInfo.cs
+D:\Projects\CardGameWithServer\Server Project\Server\obj\Debug\net6.0\Server.csproj.CoreCompileInputs.cache
+D:\Projects\CardGameWithServer\Server Project\Server\obj\Debug\net6.0\Server.MvcApplicationPartsAssemblyInfo.cache
+D:\Projects\CardGameWithServer\Server Project\Server\obj\Debug\net6.0\Server.sourcelink.json
+D:\Projects\CardGameWithServer\Server Project\Server\obj\Debug\net6.0\staticwebassets.build.json
+D:\Projects\CardGameWithServer\Server Project\Server\obj\Debug\net6.0\staticwebassets.development.json
+D:\Projects\CardGameWithServer\Server Project\Server\obj\Debug\net6.0\staticwebassets\msbuild.Server.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Projects\CardGameWithServer\Server Project\Server\obj\Debug\net6.0\staticwebassets\msbuild.build.Server.props
+D:\Projects\CardGameWithServer\Server Project\Server\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Server.props
+D:\Projects\CardGameWithServer\Server Project\Server\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Server.props
+D:\Projects\CardGameWithServer\Server Project\Server\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Projects\CardGameWithServer\Server Project\Server\obj\Debug\net6.0\scopedcss\bundle\Server.styles.css
+D:\Projects\CardGameWithServer\Server Project\Server\obj\Debug\net6.0\Server.csproj.Up2Date
+D:\Projects\CardGameWithServer\Server Project\Server\obj\Debug\net6.0\Server.dll
+D:\Projects\CardGameWithServer\Server Project\Server\obj\Debug\net6.0\refint\Server.dll
+D:\Projects\CardGameWithServer\Server Project\Server\obj\Debug\net6.0\Server.pdb
+D:\Projects\CardGameWithServer\Server Project\Server\obj\Debug\net6.0\Server.genruntimeconfig.cache
+D:\Projects\CardGameWithServer\Server Project\Server\obj\Debug\net6.0\ref\Server.dll

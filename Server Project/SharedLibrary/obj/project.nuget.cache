@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "OVVRWEtTtDLL8Ybdp/9RGJccrqGV80GqqP7PJFXTm4sLHesV34fa6G78H+AvVUYoTsKWSD6JxkWzsFgXbUxxZA==",
+  "success": true,
+  "projectFilePath": "D:\\Projects\\CardGameWithServer\\Server Project\\SharedLibrary\\SharedLibrary.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\elves\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.36\\microsoft.netcore.app.ref.6.0.36.nupkg.sha512",
+    "C:\\Users\\elves\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.36\\microsoft.windowsdesktop.app.ref.6.0.36.nupkg.sha512",
+    "C:\\Users\\elves\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.36\\microsoft.aspnetcore.app.ref.6.0.36.nupkg.sha512"
+  ],
+  "logs": []
+}

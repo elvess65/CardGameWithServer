@@ -1,0 +1,35 @@
+D:\Visual Studio Projects\GameServer\SharedLibrary\bin\Debug\net6.0\SharedLibrary.deps.json
+D:\Visual Studio Projects\GameServer\SharedLibrary\bin\Debug\net6.0\SharedLibrary.dll
+D:\Visual Studio Projects\GameServer\SharedLibrary\bin\Debug\net6.0\SharedLibrary.pdb
+D:\Visual Studio Projects\GameServer\SharedLibrary\obj\Debug\net6.0\SharedLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio Projects\GameServer\SharedLibrary\obj\Debug\net6.0\SharedLibrary.AssemblyInfoInputs.cache
+D:\Visual Studio Projects\GameServer\SharedLibrary\obj\Debug\net6.0\SharedLibrary.AssemblyInfo.cs
+D:\Visual Studio Projects\GameServer\SharedLibrary\obj\Debug\net6.0\SharedLibrary.csproj.CoreCompileInputs.cache
+D:\Visual Studio Projects\GameServer\SharedLibrary\obj\Debug\net6.0\SharedLibrary.dll
+D:\Visual Studio Projects\GameServer\SharedLibrary\obj\Debug\net6.0\refint\SharedLibrary.dll
+D:\Visual Studio Projects\GameServer\SharedLibrary\obj\Debug\net6.0\SharedLibrary.pdb
+D:\Visual Studio Projects\GameServer\SharedLibrary\obj\Debug\net6.0\ref\SharedLibrary.dll
+D:\Projects\GameWithSimpleServer\GameServer\SharedLibrary\bin\Debug\net6.0\SharedLibrary.deps.json
+D:\Projects\GameWithSimpleServer\GameServer\SharedLibrary\bin\Debug\net6.0\SharedLibrary.dll
+D:\Projects\GameWithSimpleServer\GameServer\SharedLibrary\bin\Debug\net6.0\SharedLibrary.pdb
+D:\Projects\GameWithSimpleServer\GameServer\SharedLibrary\obj\Debug\net6.0\SharedLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\GameWithSimpleServer\GameServer\SharedLibrary\obj\Debug\net6.0\SharedLibrary.AssemblyInfoInputs.cache
+D:\Projects\GameWithSimpleServer\GameServer\SharedLibrary\obj\Debug\net6.0\SharedLibrary.AssemblyInfo.cs
+D:\Projects\GameWithSimpleServer\GameServer\SharedLibrary\obj\Debug\net6.0\SharedLibrary.csproj.CoreCompileInputs.cache
+D:\Projects\GameWithSimpleServer\GameServer\SharedLibrary\obj\Debug\net6.0\SharedLibrary.sourcelink.json
+D:\Projects\GameWithSimpleServer\GameServer\SharedLibrary\obj\Debug\net6.0\SharedLibrary.dll
+D:\Projects\GameWithSimpleServer\GameServer\SharedLibrary\obj\Debug\net6.0\refint\SharedLibrary.dll
+D:\Projects\GameWithSimpleServer\GameServer\SharedLibrary\obj\Debug\net6.0\SharedLibrary.pdb
+D:\Projects\GameWithSimpleServer\GameServer\SharedLibrary\obj\Debug\net6.0\ref\SharedLibrary.dll
+D:\Projects\CardGameWithServer\Server Project\SharedLibrary\bin\Debug\net6.0\SharedLibrary.deps.json
+D:\Projects\CardGameWithServer\Server Project\SharedLibrary\bin\Debug\net6.0\SharedLibrary.dll
+D:\Projects\CardGameWithServer\Server Project\SharedLibrary\bin\Debug\net6.0\SharedLibrary.pdb
+D:\Projects\CardGameWithServer\Server Project\SharedLibrary\obj\Debug\net6.0\SharedLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\CardGameWithServer\Server Project\SharedLibrary\obj\Debug\net6.0\SharedLibrary.AssemblyInfoInputs.cache
+D:\Projects\CardGameWithServer\Server Project\SharedLibrary\obj\Debug\net6.0\SharedLibrary.AssemblyInfo.cs
+D:\Projects\CardGameWithServer\Server Project\SharedLibrary\obj\Debug\net6.0\SharedLibrary.csproj.CoreCompileInputs.cache
+D:\Projects\CardGameWithServer\Server Project\SharedLibrary\obj\Debug\net6.0\SharedLibrary.sourcelink.json
+D:\Projects\CardGameWithServer\Server Project\SharedLibrary\obj\Debug\net6.0\SharedLibrary.dll
+D:\Projects\CardGameWithServer\Server Project\SharedLibrary\obj\Debug\net6.0\refint\SharedLibrary.dll
+D:\Projects\CardGameWithServer\Server Project\SharedLibrary\obj\Debug\net6.0\SharedLibrary.pdb
+D:\Projects\CardGameWithServer\Server Project\SharedLibrary\obj\Debug\net6.0\ref\SharedLibrary.dll

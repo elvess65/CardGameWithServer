@@ -1,0 +1,5 @@
+- You do a turn with either attack or defence card.
+- Enemy does the same. 
+- If attack power is greater than defence - the later owner gets hit.
+- Then opponent does its turn and so on. Who dies of ran out of cards looses.
+V. 1

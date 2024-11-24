@@ -1,0 +1,4 @@
+D:\Visual Studio Projects\GameServer\Shared\obj\Debug\net6.0\Shared.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio Projects\GameServer\Shared\obj\Debug\net6.0\Shared.AssemblyInfoInputs.cache
+D:\Visual Studio Projects\GameServer\Shared\obj\Debug\net6.0\Shared.AssemblyInfo.cs
+D:\Visual Studio Projects\GameServer\Shared\obj\Debug\net6.0\Shared.csproj.CoreCompileInputs.cache
