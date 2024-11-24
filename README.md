@@ -18,9 +18,11 @@ Note, if You want to use Updater Tool in the Editor please follow the same steps
 
 Updated Tool:
 To open the tool go to Custom Tools/Updater Tool:
+
 <img width="520" alt="Screenshot_1" src="https://github.com/user-attachments/assets/a2e3e487-dd02-443c-9fad-a90c7c75f923">
 
 or press 'Updater Tool' button on the GameManager object uner GameSetup root:
+
 <img width="758" alt="Screenshot_2" src="https://github.com/user-attachments/assets/b83afe24-9d0f-4aba-b86a-4f1f59018619">
 
 If server setup correctly after using the tool RulesAssetWrapper object is updated under 'Assets/Data' folder. 
